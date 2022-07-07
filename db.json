@@ -61,7 +61,7 @@
 					"updateDate": "2022-04-06T12:46:33.069782Z",
 					"assets": [
 						{
-							"id": 34978,
+							"id": 34979,
 							"type": "Image",
 							"subType": "Product shot",
 							"assetSource": "RDX",
@@ -72,7 +72,7 @@
 							"timeStamp": "2022-02-07T09:33:15.987Z",
 							"assetPropertyValues": [
 								{
-									"id": 46517,
+									"id": 666365,
 									"applicationId": "5",
 									"application": "Powerpoint/Word/screen JPG",
 									"extension": "JPG",
@@ -133,7 +133,7 @@
 			],
 			"assets": [
 				{
-					"id": 34978,
+					"id": 34990,
 					"type": "Image",
 					"subType": "Product shot",
 					"assetSource": "RDX",
@@ -144,7 +144,7 @@
 					"timeStamp": "2022-02-07T09:33:15.987Z",
 					"assetPropertyValues": [
 						{
-							"id": 46517,
+							"id": 464447,
 							"applicationId": "5",
 							"application": "Powerpoint/Word/screen JPG",
 							"extension": "JPG",
@@ -185,7 +185,7 @@
 							"assetSourceId": "26769",
 							"assetCollection": "Main Image",
 							"market": "Netherlands",
-							"description": "Product shot solution 1",
+							"description": "Product shot solution 11",
 							"timeStamp": "2022-02-07T09:33:15.987Z",
 							"assetPropertyValues": [
 								{
@@ -224,7 +224,7 @@
 							"assetSourceId": "26765",
 							"assetCollection": "Main Image",
 							"market": "Netherlands",
-							"description": "Product shot solution 1",
+							"description": "Product shot solution 441",
 							"timeStamp": "2022-02-07T09:33:15.987Z",
 							"assetPropertyValues": [
 								{
